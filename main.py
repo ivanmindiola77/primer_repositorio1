@@ -1,7 +1,4 @@
-# primer_repositorio1
-ktm
-
-
+print("hola mundo")
 
 
 
